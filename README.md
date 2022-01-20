@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alpacino98
 - 👀 I’m interested in CVML, App development, Backend Development.
-- 🌱 I’m currently learning Flutter , React.JS, and PyTorch.
+- 🌱 I’m currently learning and working on Flutter , React.JS, Django, Flask, Go, Docker, Kubernetes and PyTorch.
 - 📫 You can reach me from LinkedIn with https://www.linkedin.com/in/abidin-alp-kumbasar-7b424719a/ .
